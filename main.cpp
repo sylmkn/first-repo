@@ -1,1 +1,2 @@
-int main()
+#include "Warrior.h"
+int main() {}
