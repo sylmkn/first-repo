@@ -1,4 +1,4 @@
 #include "Warrior.h"
-int test();
+bool test();
 int main() {}
 
